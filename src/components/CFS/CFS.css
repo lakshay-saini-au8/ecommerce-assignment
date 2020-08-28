@@ -1,0 +1,10 @@
+.Cfs__cart {
+  display: flex;
+  font-size: 14px;
+  padding-bottom: 10px;
+}
+
+.Cfs__cart > span {
+  padding-right: 15px;
+  color: #ccc;
+}

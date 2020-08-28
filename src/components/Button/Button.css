@@ -1,0 +1,23 @@
+.btn {
+  width: 100%;
+  padding: 12px 0;
+  border: none;
+}
+.btn:focus {
+  outline: none;
+}
+.btn.primary {
+  background: orange;
+  color: #fff;
+}
+
+.btn.secondary {
+  background: #000;
+  color: #fff;
+}
+.btn.center {
+  text-align: center;
+}
+.btn.right {
+  text-align: right;
+}

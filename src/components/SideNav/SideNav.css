@@ -1,0 +1,10 @@
+.SideNav {
+  display: flex;
+  flex-direction: column;
+}
+.SideNav .SideButton {
+  padding: 20px 0;
+}
+.SideNav .SideButton > button {
+  margin-bottom: 10px;
+}

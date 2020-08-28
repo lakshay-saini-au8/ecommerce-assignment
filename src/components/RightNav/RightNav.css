@@ -1,0 +1,19 @@
+.PayCard {
+  background: #cccccc38;
+  padding: 15px;
+}
+.PayCard .PayCard__summary {
+  padding: 10px 0;
+}
+.PayCard .PayCard__summary .PayCard__details {
+  display: flex;
+  justify-content: space-between;
+  padding: 9px 0;
+  font-size: 13px;
+  font-weight: 400;
+  color: #00000073;
+}
+
+.PayCard .PayCard__btn {
+  margin-top: 55px;
+}

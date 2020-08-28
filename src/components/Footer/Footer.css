@@ -1,0 +1,11 @@
+.Footer .Upper {
+  background: #1a1a23;
+  padding: 50px 0;
+  color: #fff;
+}
+.Footer .Lower {
+  background: #0f0f15;
+  padding: 50px 0;
+  color: #fff;
+  display: flex;
+}

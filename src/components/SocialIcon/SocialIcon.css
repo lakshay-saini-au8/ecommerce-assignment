@@ -1,0 +1,10 @@
+.SocialIcon {
+  display: flex;
+  justify-content: space-between;
+  color: #ccc;
+  padding: 38px 0;
+}
+
+.SocialIcon > i {
+  cursor: pointer;
+}

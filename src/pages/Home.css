@@ -1,0 +1,25 @@
+.Main {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+  padding: 0 40px;
+}
+.LeftSection {
+  width: 15%;
+  padding-top: 35px;
+}
+.CenterSection {
+  width: 60%;
+}
+.CenterSection .Cart {
+  display: flex;
+  flex-direction: column;
+  padding: 0 30px;
+}
+.RightSection {
+  width: 25%;
+  padding-top: 47px;
+}
+.SideNav .NavBar > .NavBar__items {
+  padding: 15px 0;
+}

@@ -1,0 +1,31 @@
+.CartTable {
+  width: 100%;
+  text-align: left;
+  border-collapse: collapse;
+  font-size: 14px;
+}
+.CartTable .CartTable__head {
+  background: #f4f4f4;
+}
+.CartTable .CartTable__head > tr > th {
+  padding: 8px 0;
+}
+.CartTable .CartTable__body > tr > td.Image_body {
+  display: flex;
+  align-items: center;
+  margin-top: 11px;
+}
+.Quantity {
+  display: flex;
+  align-items: center;
+}
+
+.Quantity > p {
+  background: #cccccc38;
+  padding: 5px;
+}
+
+.Quantity .Quantity__minu,
+.Quantity .Quantity__plus {
+  cursor: pointer;
+}

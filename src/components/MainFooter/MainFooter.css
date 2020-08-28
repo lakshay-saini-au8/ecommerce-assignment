@@ -1,0 +1,24 @@
+.MainFooter {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  padding: 0 20%;
+  justify-content: space-between;
+}
+.MainFooter__left {
+  width: 40%;
+}
+.MainFooter__right {
+  width: 35%;
+}
+.Footer__Bar {
+  display: flex;
+  font-size: 12px;
+}
+
+.Footer__Bar > .NavBar__items {
+  padding-right: 15px;
+}
+.Footer__Bar > .NavBar__items:first-child {
+  color: orange;
+}

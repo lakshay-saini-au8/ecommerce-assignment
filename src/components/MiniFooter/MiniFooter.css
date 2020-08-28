@@ -1,0 +1,22 @@
+.MiniFooter {
+  display: flex;
+  align-items: center;
+  padding: 0 20%;
+  justify-content: space-between;
+}
+.MiniFooter__left {
+  width: 50%;
+}
+
+.MiniFooter .MiniFooter__right > form {
+  display: flex;
+}
+.MiniFooter .MiniFooter__right > form > input {
+  font-size: 16px;
+  padding-left: 10px;
+  padding: 9.1px;
+  margin-right: -2px;
+}
+.MiniFooter .MiniFooter__right > form > input:focus {
+  outline: none;
+}

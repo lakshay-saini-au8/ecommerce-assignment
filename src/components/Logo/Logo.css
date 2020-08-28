@@ -1,0 +1,22 @@
+.Logo {
+  display: flex;
+  flex-direction: column;
+}
+
+.Logo .Logo__main {
+  font-size: 24px;
+  display: flex;
+  align-items: center;
+}
+.Logo .Logo__main .Logo__circle {
+  width: 18px;
+  height: 18px;
+  background: orange;
+  border-radius: 50%;
+  margin-top: 3px;
+}
+
+.Logo .Logo__title {
+  font-size: 11px;
+  letter-spacing: 3px;
+}
